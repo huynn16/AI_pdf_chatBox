@@ -253,10 +253,3 @@ You can customize the agent on the backend and frontend.
 
 5. Network Errors
    - Frontend must point to the correct NEXT_PUBLIC_LANGGRAPH_API_URL. By default, it is http://localhost:2024.
-
-## Next Steps
-
-If you'd like to contribute to this project, feel free to open a pull request. Ensure it is well documented and includes tests in the test files.
-
-If you'd like to learn more about building AI chatbots and agents with LangChain and LangGraph, check out the book [Learning LangChain (O'Reilly)](https://www.oreilly.com/library/view/learning-langchain/9781098167271/).
-
