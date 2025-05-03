@@ -85,22 +85,6 @@ The system consists of:
 4. **OpenAI API Key** (or another LLM provider’s key, supported by LangChain).
 5. **LangChain API Key** (free and optional, but highly recommended for debugging and tracing your LangChain and LangGraph applications). Learn more [here](https://docs.smith.langchain.com/administration/how_to_guides/organization_management/create_account_api_key)
 
----
-
-## Installation
-
-1. **Clone** the repository:
-
-   ```bash
-   git clone https://github.com/mayooear/ai-pdf-chatbot-langchain.git
-   cd ai-pdf-chatbot-langchain
-   ```
-
-2.	Install dependencies (from the monorepo root):
-
-yarn install
-
-    3.	Configure environment variables in both backend and frontend. See .`env.example` files for details.
 
 ## Environment Variables
 
